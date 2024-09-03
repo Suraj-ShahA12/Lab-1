@@ -7,5 +7,6 @@ int main()
     printf("The given time is %d hour, %d minute and %d second\n",hr,min,sec);
     totalsec=hr*3600+min*60+sec;
     printf("Total number of seconds=%d",totalsec);
+    return 0;
 }
 
