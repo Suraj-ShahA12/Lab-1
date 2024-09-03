@@ -9,5 +9,6 @@ int main()
     perc=total/5;
     printf("Total marks=%d\n",total);
     printf("Percentage=%f",perc);
+    return 0;
 }
 
