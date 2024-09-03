@@ -13,5 +13,6 @@ int main()
     scanf("%d",&e);
     cm=m/2+p/2+c/2+e;
     printf("Cutoff mark=%f",cm);
+    return 0;
 }
 
