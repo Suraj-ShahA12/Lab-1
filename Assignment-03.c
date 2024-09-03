@@ -10,5 +10,6 @@ int main()
     scanf("%d",&other);
     gross=base+hra+other;
     printf("Gross salary=%d",gross);
+    return 0;
 }
 
