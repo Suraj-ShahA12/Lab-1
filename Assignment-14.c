@@ -15,4 +15,5 @@ int main() {
 	else {
 		printf("Special Symbol");
 	}
+	return 0;
 }
