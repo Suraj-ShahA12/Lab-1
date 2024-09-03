@@ -8,4 +8,5 @@ int main()
 	min=(time-(3600*hr))/60;
 	sec=time-(3600*hr)-(60*min);
 	printf("The converted time is %d hour, %d minutes and %d seconds",hr,min,sec);
+	return 0;
 }
