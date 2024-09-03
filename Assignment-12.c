@@ -5,4 +5,5 @@ int main()
 	printf("Enter a character: ");
 	scanf("%c",&c);
 	printf("ASCII Code of %c=%d",c);
+	return 0;
 }
